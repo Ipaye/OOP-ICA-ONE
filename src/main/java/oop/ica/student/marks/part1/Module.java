@@ -1,6 +1,5 @@
 package oop.ica.student.marks.part1;
 
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -17,13 +16,13 @@ import java.util.List;
 public class Module {
 
     /*
-    TODO: What data do we need to store in each module instance?
-    */
-    
+     * TODO: What data do we need to store in each module instance?
+     */
+
     /*
-    TODO: Use a collection to link a module instance to many student instance
-    */
-    
+     * TODO: Use a collection to link a module instance to many student instance
+     */
+
     public Module(/* TODO: What goes here? */) {
         // TODO
     }
@@ -43,15 +42,16 @@ public class Module {
     public List<Student> getStudents() {
         // TODO
     }
-    
+
     public void addStudent(Student student) {
         // TODO
     }
-    
+
     public long failCount() {
+
         // TODO
     }
-    
+
     public long passCount() {
         // TODO
     }
